@@ -7,7 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/// <summary>
+/// 
+/// Name : Dhrutiben Patel
+/// Student Id : 300857555
+/// Date : 19 August 2016
+/// class name : GenerateNameForm
+/// Githb : dhruti15
+/// </summary>
 namespace COMP123_S2016_FinalExam
 {
     public partial class GenerateNameForm : Form

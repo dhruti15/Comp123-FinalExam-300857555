@@ -7,7 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/// <summary>
+/// 
+/// Name : Dhrutiben Patel
+/// Student Id : 300857555
+/// Date : 19 August 2016
+/// Git Hub : Dhruti15
+/// Class : Splash Form
+/// 
+/// </summary>
 namespace COMP123_S2016_FinalExam
 {
     public partial class SplashForm : Form
