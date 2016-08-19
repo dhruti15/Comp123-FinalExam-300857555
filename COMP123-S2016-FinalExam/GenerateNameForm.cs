@@ -29,7 +29,13 @@ namespace COMP123_S2016_FinalExam
         {
 
         }
-
+        /*
+       *@method : GenerateNames
+       * @object : random
+       *
+       * setting character to string reprenstation
+       *     
+      */
         public void GenerateNames()
         {
             Random random = new Random();
@@ -49,12 +55,20 @@ namespace COMP123_S2016_FinalExam
         {
             GenerateNames();
         }
-
+        /*
+       *@method : GenerateNameForm_Load
+       * @call : Generate Names
+       *     
+      */
         private void GenerateNameForm_Load(object sender, EventArgs e)
         {
             GenerateNames();
         }
-
+        /*
+       *@method : NextButton_Click
+       * @event : Hide and show
+       *     
+      */
         private void NextButton_Click(object sender, EventArgs e)
         {
             AbilityGeneratorForm form = new AbilityGeneratorForm();

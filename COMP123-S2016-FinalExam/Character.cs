@@ -2,7 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+/// <summary>
+/// 
+/// Name : Dhruti Ben Patel
+/// Student Id : 300857555
+/// Date : 19 August 2016
+/// Properties
+/// </summary>
 namespace COMP123_S2016_FinalExam
 {
     public class Character

@@ -29,7 +29,11 @@ namespace COMP123_S2016_FinalExam
         {
 
         }
-
+      /*
+       *@method : Timer Click
+       * @object : form
+       *     
+      */
         private void Timer_Tick(object sender, EventArgs e)
         {
             Timer.Enabled = false;
